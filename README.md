@@ -1,7 +1,7 @@
 # Work evaluation project
 
 <!-- logo goes here -->
-![logo](images/AFC%logo%2.png)
+![logo](images/Maple_Leaf.svg.png)
 
 # Go Maple Leafs!
 
