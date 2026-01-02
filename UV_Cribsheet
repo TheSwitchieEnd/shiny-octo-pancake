@@ -1,0 +1,6 @@
+Task,Command
+
+New Project  uv init
+Add Packages  uv add <package-name>
+Start Jupyter  uv run jupyter lab
+Reproduce Elsewhere  uv sync
