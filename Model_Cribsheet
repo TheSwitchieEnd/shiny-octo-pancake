@@ -1,0 +1,6 @@
+Model    Type              Best For...                         """Vibe"""
+SARIMA   Statistical       Quarterly patterns & short-term.    Precise & Rigid
+ETS      Statistical       Stable, long-term trends.           Smooth & Reliable
+Prophet  Decomposable      Messy data & "Holiday" effects.     User-friendly
+XGBoost  Machine Learning  Using many external indicators.     Powerful & Complex
+Theta    Hybrid            Long-range, noisy data.             Simple & Robust
